@@ -1,4 +1,4 @@
-# Explicação linha por linha de `Teste001.py`
+# Explicação linha por linha.
 
 Este documento descreve cada linha do código presente em `Teste001.py`, inclusive os erros existentes no código original.
 
